@@ -1,0 +1,24 @@
+{
+  "name": "nato-4mundo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start" : "eleventy --serve", 
+    "build" : "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hosaro/4mundo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hosaro/4mundo/issues"
+  },
+  "homepage": "https://github.com/hosaro/4mundo#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.0-beta.1"
+  }
+}
